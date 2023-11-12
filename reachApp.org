@@ -1,5 +1,7 @@
 #+TITLE: Reach Training Homework
 #+AUTHOR:Silas Curfman
+#+OPTIONS: ^:nil
+#+BIND: org-html-link-org-files-as-html:nil
 #+SETUPFILE: theme-readtheorg.setup
 
 * ENGPO-768 App Dev
